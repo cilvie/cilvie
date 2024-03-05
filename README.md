@@ -1,9 +1,9 @@
 ## 👻 Introducing
 
 - Hi, I’m [@cilvie](https://github.com/cilvie?tab=repositories)
-- I'm proficient in Lua
-- Familiar with С#/JavaScript/Python
-- I’m currently learning Asm/C++ ~ Reverse Engineering [ Game Hacking ]
+- I'm Proficient In Lua
+- Familiar With С#/JavaScript/Python
+- I Have Set My Sights On Mastering ~ Reverse Engineering [ Game Hacking ]
 
 ![counter](https://moe-counter.glitch.me/get/@cilvie?theme=asoul) \
 \
