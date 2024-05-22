@@ -6,5 +6,4 @@
 - I Have Set My Sights On Mastering Asm ~ Reverse Engineering [ Game Hacking ]
 
 ![counter](https://moe-counter.glitch.me/get/@cilvie?theme=asoul) \
-\
 
